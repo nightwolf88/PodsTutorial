@@ -1,0 +1,25 @@
+{
+  "name": "PodsTutorial",
+  "version": "0.1.0",
+  "summary": "A short description of PodsTutorial.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PodsTutorial",
+  "license": "MIT",
+  "authors": {
+    "Si Do Dinh": "sid2@vn.ibm.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PodsTutorial.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "PodsTutorial": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

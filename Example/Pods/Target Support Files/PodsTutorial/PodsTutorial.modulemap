@@ -1,0 +1,6 @@
+framework module PodsTutorial {
+  umbrella header "PodsTutorial-umbrella.h"
+
+  export *
+  module * { export * }
+}

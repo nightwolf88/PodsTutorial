@@ -1,0 +1,14 @@
+PODS:
+  - PodsTutorial (0.1.0)
+
+DEPENDENCIES:
+  - PodsTutorial (from `../`)
+
+EXTERNAL SOURCES:
+  PodsTutorial:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodsTutorial: b1089aebf31cf541d7c983431f5df4db3ed58933
+
+COCOAPODS: 0.39.0
